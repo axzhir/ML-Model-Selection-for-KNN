@@ -12,8 +12,6 @@ This project focuses on the **evaluation** phase of the machine learning life cy
 * Generate a **confusion matrix**
 * Plot a **precision-recall curve**
 
-> ⚠️ Note: The `predict_proba()` method in KNN doesn’t return true probabilities, because KNN is a non-probabilistic algorithm. It calculates the proportion of neighbors belonging to each class to simulate class "probabilities". Still, this is useful for evaluating metrics like precision and recall.
-
 ---
 
 ### 🛠️ Steps
